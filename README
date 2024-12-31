@@ -1,0 +1,4 @@
+step 1:
+open terminal and write npm install
+step 2:
+npm run dev
